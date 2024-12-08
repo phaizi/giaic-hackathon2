@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div>
-      HOME 
-    </div>
+    <div className="bg-secondary text-xl">
+    Home 
+  </div>
   );
 }
